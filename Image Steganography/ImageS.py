@@ -275,3 +275,5 @@ o = Stegno()
 o.main(root)
 
 root.mainloop()
+
+#End
