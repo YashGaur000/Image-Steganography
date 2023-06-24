@@ -1,3 +1,5 @@
+#Begining
+
 from tkinter import *
 from tkinter import ttk
 import tkinter.filedialog
@@ -9,24 +11,16 @@ import  os
 
 class Stegno:
 
-    art ='''¯\_(ツ)_/¯'''
+    art ='''Presented by VIPS-TC'''
     art2 = '''
-@(\/)
-(\/)-{}-)@
-@(={}=)/\)(\/)
-(\/(/\)@| (-{}-)
-(={}=)@(\/)@(/\)@
-(/\)\(={}=)/(\/)
-@(\/)\(/\)/(={}=)
-(-{}-)""""@/(/\)
-|:   |
-/::'   \\
-/:::     \\
-|::'       |
-|::        |
-\::.       /
-':______.'
-`""""""`'''
+This is a prototype of our practicum and 
+subjected to mere changes if necessary.
+
+This is made by 
+YASH GAUR, KHUSHI KALRA, ANVESH TIWARI
+under the guidance of Dr. Ashish.
+ 
+We hope you will like it.'''
     output_image_size = 0
 
     def main(self,root):
@@ -47,7 +41,7 @@ class Stegno:
 
         ascii_art = Label(f,text=self.art)
         # ascii_art.config(font=('MingLiU-ExtB',50))
-        ascii_art.config(font=('courier',60))
+        ascii_art.config(font=('courier',30))
 
         ascii_art2 = Label(f,text=self.art2)
         # ascii_art.config(font=('MingLiU-ExtB',50))
@@ -71,7 +65,7 @@ class Stegno:
         f.destroy()
         d_f2 = Frame(root)
         label_art = Label(d_f2, text='٩(^‿^)۶')
-        label_art.config(font=('courier',90))
+        label_art.config(font=('courier',30))
         label_art.grid(row =1,pady=50)
         l1 = Label(d_f2, text='Select Image with Hidden text:')
         l1.config(font=('courier',18))
