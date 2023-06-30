@@ -1,6 +1,6 @@
 #Begining here
 
-from tkinter import *
+from tkinter import *   #tkinter used for GUI
 from tkinter import ttk
 import tkinter.filedialog
 from PIL import ImageTk
