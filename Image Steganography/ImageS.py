@@ -3,7 +3,7 @@
 from tkinter import *   #tkinter used for GUI
 from tkinter import ttk
 import tkinter.filedialog
-from PIL import ImageTk
+from PIL import ImageTk     #PIL used for image processing
 from PIL import Image
 from tkinter import messagebox
 from io import BytesIO
