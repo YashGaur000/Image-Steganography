@@ -6,7 +6,7 @@ import tkinter.filedialog
 from PIL import ImageTk     #PIL used for image processing
 from PIL import Image
 from tkinter import messagebox
-from io import BytesIO
+from io import BytesIO      #io used for binary related work
 import  os
 
 class Stegno:
