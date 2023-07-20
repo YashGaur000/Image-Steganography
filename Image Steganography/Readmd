@@ -1,1 +1,3 @@
-This project is related to Image Steganography 
+This project is related to Image Steganography.
+
+Stegnography is used to hide secret data into a cover object. This cover object can be image, video, audio, text.
