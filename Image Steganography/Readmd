@@ -1,3 +1,16 @@
 This project is related to Image Steganography.
 
 Stegnography is used to hide secret data into a cover object. This cover object can be image, video, audio, text.
+
+1. Image Steganography:
+Concealing information within digital images. It involves modifying pixel values or adding extra data in the image to hide the secret message.
+2. Audio Steganography:
+Hiding data within audio files. Similar to image steganography, audio steganography involves modifying the audio data to embed the secret message.
+3. Video Steganography:
+Concealing information within video files. This technique alters frames or adds data to video frames without causing noticeable changes to the video quality.
+4. Text Steganography:
+Embedding hidden messages within the text of a document. This can involve various techniques, such as modifying letter spacing, word choice, or formatting.
+5. File Steganography:
+Hiding data within various file formats, such as documents, spreadsheets, or presentations. The hidden information can be embedded in specific areas of the file.
+6. Protocol Steganography:
+Concealing information within the protocol headers of network communication. This technique involves modifying packet headers to hide data.
