@@ -1,5 +1,7 @@
 This project is related to Image Steganography.
 
+Just run it on your local machine and before executing the code install all necessary library via pip.
+
 Stegnography is used to hide secret data into a cover object. This cover object can be image, video, audio, text.
 
 1. Image Steganography:
